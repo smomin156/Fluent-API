@@ -1,0 +1,7 @@
+C:\TRAINING\FluentApi\FluentApi\bin\Debug\FluentApi.exe.config
+C:\TRAINING\FluentApi\FluentApi\bin\Debug\FluentApi.exe
+C:\TRAINING\FluentApi\FluentApi\bin\Debug\FluentApi.pdb
+C:\TRAINING\FluentApi\FluentApi\obj\Debug\FluentApi.csproj.AssemblyReference.cache
+C:\TRAINING\FluentApi\FluentApi\obj\Debug\FluentApi.csproj.CoreCompileInputs.cache
+C:\TRAINING\FluentApi\FluentApi\obj\Debug\FluentApi.exe
+C:\TRAINING\FluentApi\FluentApi\obj\Debug\FluentApi.pdb
